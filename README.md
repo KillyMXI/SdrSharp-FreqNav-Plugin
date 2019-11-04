@@ -11,7 +11,7 @@ It can also be compiled with [murphy666 fork](https://github.com/murphy666/sdrsh
 
 ## Download
 
-Check the Releases section for the binaries.
+I provide no binary builds currently. I'll see if there is any interest.
 
 
 ## Compilation

@@ -1,0 +1,8 @@
+*.user
+*.suo
+*.bak
+bin
+obj
+Debug
+Release
+.vs
